@@ -1,5 +1,5 @@
 import React, { useContext, useEffect } from "react";
-
+REACT_APP_YT_API_KEY='66d770d483mshbdb4098943bd722p117634jsn9bfe9e580847'
 import { Context } from "../context/context";
 import LeftNav from "./LeftNav";
 import VideoCard from "./VideoCard";
